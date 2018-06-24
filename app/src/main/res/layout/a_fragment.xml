@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/aa_fragment"
+    android:orientation="vertical"
+    android:layout_height="250dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/textViewF1"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="A frgament"
+        android:layout_height="40dp" />
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/textViewF2"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="A frgament"
+        android:layout_height="40dp" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/textViewF3"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="A frgament"
+        android:layout_height="40dp" />
+
+
+    <Button
+        android:id="@+id/ButtonAA"
+        android:gravity="center"
+        android:text="button A fragment"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+</LinearLayout>
